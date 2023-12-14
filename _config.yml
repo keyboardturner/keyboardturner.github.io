@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Keyboard's Collection
 description: A small collection of my stuff, probably addons, art, maybe datamining.
+last_updated: {{ site.time | date: "%Y-%m-%d %H:%M:%S %z" }}
