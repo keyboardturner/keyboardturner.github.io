@@ -56,3 +56,5 @@ Below are some resources I find pretty neat. Primarily these are some useful too
 ### [Datamine Addon](https://github.com/Ghostopheles/Datamine)
 
 ### [Algalon CDN Watcher](https://twitter.com/algalon_ghost)
+
+[back](/)
