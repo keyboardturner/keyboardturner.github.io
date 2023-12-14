@@ -8,9 +8,9 @@ Some text and stuff here.
 
 [Gallery Link Test](./pages/gallery.md)
 
-Version Test: 5
+Version Test: 6
 
-<div class="flex-both-center flex-wrap mt-16">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 16px;">
     <div class="page-social relative">
         <a class="social-icon-anchor" aria-label="social-icon" data-id="twitter" data-type="social_link" target="_blank" rel="noopener nofollow" href="https://twitter.com/keyboardturn">
             <svg class="social-icon-fill" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
