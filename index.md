@@ -47,21 +47,27 @@ layout: default
 
 Some other stuff can be found below.
 
-# <img src="/assets/images_thumbnails/curseforge2.png" alt="curseforge" width="18"/> [WoW Addons](./pages/some-addons.md)
+# Pages
 
-# <img src="/assets/images_thumbnails/discordserver.gif" alt="discord server" width="18"/> [Discord Server](https://discord.gg/tA4rrmjPp8)
+## <img src="/assets/images_thumbnails/curseforge2.png" alt="curseforge" width="18"/> [WoW Addons](./pages/some-addons.md)
 
-# <img src="/assets/images_thumbnails/twitter.gif" alt="twitter" width="18"/> [Main / Personal Twitter](https://twitter.com/keyboardturn)
+# Socials
 
-# <img src="/assets/images_thumbnails/bluesky.png" alt="bluesky" width="18"/> [Bluesky](https://staging.bsky.app/profile/keyboardturner.bsky.social)
+## <img src="/assets/images_thumbnails/discordserver.gif" alt="discord server" width="18"/> [Discord Server](https://discord.gg/tA4rrmjPp8)
 
-# <img src="/assets/images_thumbnails/ffxiv.gif" alt="fat cat party" width="18"/> [FFXIV Twitter](https://twitter.com/keyboardturn_ff)
+## <img src="/assets/images_thumbnails/twitter.gif" alt="twitter" width="18"/> [Main / Personal Twitter](https://twitter.com/keyboardturn)
 
-# <img src="/assets/images_thumbnails/abkstrikefund.png" alt="abk strike fund" width="18"/> [ABK Strike Fund](https://www.gofundme.com/f/abk-strike-fund)
+## <img src="/assets/images_thumbnails/bluesky.png" alt="bluesky" width="18"/> [Bluesky](https://staging.bsky.app/profile/keyboardturner.bsky.social)
 
-# <img src="/assets/images_thumbnails/code_cwa.png" alt="code cwa" width="18"/> [CODE-CWA](https://www.code-cwa.org/)
+## <img src="/assets/images_thumbnails/ffxiv.gif" alt="fat cat party" width="18"/> [FFXIV Twitter](https://twitter.com/keyboardturn_ff)
 
-# <img src="/assets/images_thumbnails/googledoc.png" alt="google doc" width="18"/> [Abortion Funds in Every State](https://bit.ly/AbortionFundsTwitter)
+# Other
+
+## <img src="/assets/images_thumbnails/abkstrikefund.png" alt="abk strike fund" width="18"/> [ABK Strike Fund](https://www.gofundme.com/f/abk-strike-fund)
+
+## <img src="/assets/images_thumbnails/code_cwa.png" alt="code cwa" width="18"/> [CODE-CWA](https://www.code-cwa.org/)
+
+## <img src="/assets/images_thumbnails/googledoc.png" alt="google doc" width="18"/> [Abortion Funds in Every State](https://bit.ly/AbortionFundsTwitter)
 
 
 
