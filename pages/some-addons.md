@@ -54,8 +54,9 @@ Languages
 
 ### HandyNotes
 
-
 <img src="/assets/images_thumbnails/dragonglyphs.png" alt="dragon glyphs" width="18"/><a href="https://www.curseforge.com/wow/addons/handynotes-dragon-glyphs" style="font-size:18px;" >HandyNotes: Dragon Glyphs</a> <a href="https://www.curseforge.com/wow/addons/handynotes-dragon-glyphs"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/handynotes-dragon-glyphs"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26489-HandyNotesDragonGlyphs.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/HandyNotes_DragonGlyphs"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
+
+<img src="/assets/images_thumbnails/valdrakken.png" alt="dragon glyphs" width="18"/><a href="https://www.curseforge.com/wow/addons/handynotes_valdrakken" style="font-size:18px;" >HandyNotes: Valdrakken</a> <a href="https://www.curseforge.com/wow/addons/handynotes_valdrakken"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/handynotes-valdrakken-9uzms4UX"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26488-Handynotes_Valdrakken.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/Handynotes_Valdrakken"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
 
 HandyNotes: Valdrakken
