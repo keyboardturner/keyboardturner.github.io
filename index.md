@@ -51,6 +51,8 @@ Some other stuff can be found below.
 
 ## <img src="/assets/images_thumbnails/curseforge2.png" alt="curseforge" width="18"/> [WoW Addons](./pages/some-addons.md)
 
+## <img src="/assets/images_thumbnails/inv_garrison_resource.jpg" alt="resources" width="18"/> [Resources](./pages/resources.md)
+
 # Socials
 
 ## <img src="/assets/images_thumbnails/discordserver.gif" alt="discord server" width="18"/> [Discord Server](https://discord.gg/tA4rrmjPp8)
