@@ -9,6 +9,7 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 16px;
     padding: 16px;
+    background-color: #151718; /* Add this line to set the background color */
 }
 
 .gallery img {
