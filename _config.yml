@@ -4,3 +4,4 @@ plugins:
 title: Keyboard's Collection
 description: A small collection of my stuff, probably addons, art, maybe datamining.
 last_updated: {{ site.time | date: "%Y-%m-%d %H:%M:%S %z" }}
+markdown: kramdown
