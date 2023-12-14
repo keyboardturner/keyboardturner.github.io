@@ -42,7 +42,7 @@ layout: default
 
 Some other stuff can be found below.
 
-[WoW Addons](./pages/some-addons.md)
+# [WoW Addons](./pages/some-addons.md)
 
 <!--[Gallery Link Test](./pages/gallery.md)-->
 
