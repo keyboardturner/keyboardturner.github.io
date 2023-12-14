@@ -40,10 +40,66 @@ layout: default
 	</div>
 </div>
 
-Some other stuff can be found below.
+# World of Warcraft Addons
 
-[WoW Addons](./pages/some-addons.md)
+My addons can be found on [Curseforge](https://github.com/keyboardturner?tab=repositories), [wago](https://addons.wago.io/user/Keyboardturn), [wowinterface](https://www.wowinterface.com/downloads/author-328467.html), and [github](https://github.com/keyboardturner?tab=repositories).
 
-<!--[Gallery Link Test](./pages/gallery.md)-->
+### Roleplay
 
-Version Test: 8
+Total RP 3: Unit Frames
+
+GossipChatter
+
+Languages
+
+### HandyNotes
+
+
+<img src="/assets/images_thumbnails/dragonglyphs.png" alt="dragon glyphs" width="25"/><a href="https://www.curseforge.com/wow/addons/handynotes-dragon-glyphs">HandyNotes: Dragon Glyphs</a> <a href="https://www.curseforge.com/wow/addons/handynotes-dragon-glyphs"><img src="/assets/images_thumbnails/scurseforge.png" alt="curseforge" style="width:25px;height:25px;"></a> <a href="https://addons.wago.io/addons/handynotes-dragon-glyphs"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:25px;height:25px;"></a> <a href="https://www.wowinterface.com/downloads/info26489-HandyNotesDragonGlyphs.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:25px;height:25px;"></a> <a href="https://github.com/keyboardturner/HandyNotes_DragonGlyphs"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:25px;height:25px;"></a>
+
+
+HandyNotes: Valdrakken
+
+HandyNotes: Ahn'Qiraj Scarab coffers
+
+HandyNotes: Naxxramas Frozen Runes
+
+### Tooltips
+
+Item Upgrade Quality Icons
+
+Lore Item Tooltips
+
+### Artwork
+
+TalentArt
+
+### Utilities
+
+Dragon Rider
+
+Hearthbag
+
+SlowFaller
+
+Keyboard's Minimap Icons
+
+WipeBarsConfirm
+
+### Tweaks
+
+Movable Objective Frame
+
+Joke
+
+Movable Bag Frames
+
+Stay Sheathed Lite
+
+Movable Menu Frames
+
+TargetSwapSound
+
+HeckTradeChat
+
+[back](/)
