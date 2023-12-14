@@ -44,7 +44,7 @@ layout: default
 
 My addons can be found on [Curseforge](https://www.curseforge.com/members/keyboardturner/projects), [wago](https://addons.wago.io/user/Keyboardturn), [wowinterface](https://www.wowinterface.com/downloads/author-328467.html), and [github](https://github.com/keyboardturner?tab=repositories).
 
-### Roleplay
+## Roleplay
 
 <img src="/assets/images_thumbnails/trp3uf.png" alt="trp3 unit frames" width="18"/> <a href="https://www.curseforge.com/wow/addons/total-rp-3-unit-frames" style="font-size:18px;" >Total RP 3: Unit Frames</a> <a href="https://www.curseforge.com/wow/addons/total-rp-3-unit-frames"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/total-rp-3-unit-frames"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26477-TotalRP3UnitFrames.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/totalRP3_UnitFrames"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
@@ -52,7 +52,7 @@ My addons can be found on [Curseforge](https://www.curseforge.com/members/keyboa
 
 <img src="/assets/images_thumbnails/languages.png" alt="gossip chatter" width="18"/> <a href="https://www.curseforge.com/wow/addons/languages" style="font-size:18px;" >Languages</a> <a href="https://www.curseforge.com/wow/addons/languages"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/languages"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26633-Languages.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/Languages"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-### HandyNotes
+## HandyNotes
 
 <img src="/assets/images_thumbnails/dragonglyphs.png" alt="dragon glyphs" width="18"/> <a href="https://www.curseforge.com/wow/addons/handynotes-dragon-glyphs" style="font-size:18px;" >HandyNotes: Dragon Glyphs</a> <a href="https://www.curseforge.com/wow/addons/handynotes-dragon-glyphs"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/handynotes-dragon-glyphs"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26489-HandyNotesDragonGlyphs.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/HandyNotes_DragonGlyphs"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
@@ -62,29 +62,29 @@ My addons can be found on [Curseforge](https://www.curseforge.com/members/keyboa
 
 <img src="/assets/images_thumbnails/naxxfrozenrune.png" alt="naxx frozen runes" width="18"/> <a href="https://www.curseforge.com/wow/addons/handynotes-naxxramas-frozen-runes" style="font-size:18px;" >HandyNotes: Naxxramas Frozen Runes</a> <a href="https://www.curseforge.com/wow/addons/handynotes-naxxramas-frozen-runes"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/handynotes-naxxramas-frozen-runes"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26607-HandyNotesNaxxramasFrozenRunes.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/HandyNotes_NaxxFrozenRunes"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-### Tooltips
+## Tooltips
 
-Item Upgrade Quality Icons
+<img src="/assets/images_thumbnails/qualityicon.png" alt="item upgrade quality icons" width="18"/> <a href="https://www.curseforge.com/wow/addons/item-upgrade-quality-icons" style="font-size:18px;" >Item Upgrade Quality Icons</a> <a href="https://www.curseforge.com/wow/addons/item-upgrade-quality-icons"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/item-upgrade-quality-icons"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26576-ItemUpgradeQualityIcons.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/ItemUpgradeQualityIcons"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-Lore Item Tooltips
+<img src="/assets/images_thumbnails/loreitemtooltips.png" alt="lore item tooltips" width="18"/> <a href="https://www.curseforge.com/wow/addons/lore-item-tooltips" style="font-size:18px;" >Lore Item Tooltips</a> <a href="https://www.curseforge.com/wow/addons/lore-item-tooltips"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/lore-item-tooltips"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26475-LoreItemTooltips.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/LoreItemTooltips"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-### Artwork
+## Artwork
 
-TalentArt
+<img src="/assets/images_thumbnails/talentart.png" alt="talent art" width="18"/> <a href="https://www.curseforge.com/wow/addons/talentart" style="font-size:18px;" >TalentArt</a> <a href="https://www.curseforge.com/wow/addons/talentart"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/talentart"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info24380-TalentArt.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/TalentArt"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-### Utilities
+## Utilities
 
-Dragon Rider
+<img src="/assets/images_thumbnails/dragonrider.png" alt="dragon rider" width="18"/> <a href="https://www.curseforge.com/wow/addons/dragon-rider" style="font-size:18px;" >Dragon Rider</a> <a href="https://www.curseforge.com/wow/addons/dragon-rider"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/dragon-rider"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26618-DragonRider.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/DragonRider"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-Hearthbag
+<img src="/assets/images_thumbnails/hearthbag.png" alt="hearthbag" width="18"/> <a href="https://www.curseforge.com/wow/addons/hearthbag" style="font-size:18px;" >Hearthbag</a> <a href="https://www.curseforge.com/wow/addons/hearthbag"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/hearthbag"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26240-Hearthbag.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/Hearthbag"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-SlowFaller
+<img src="/assets/images_thumbnails/slowfaller.png" alt="slow faller" width="18"/> <a href="https://www.curseforge.com/wow/addons/slowfaller" style="font-size:18px;" >SlowFaller</a> <a href="https://www.curseforge.com/wow/addons/slowfaller"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/slowfaller"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26476-SlowFaller.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/SlowFaller"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-Keyboard's Minimap Icons
+<img src="/assets/images_thumbnails/kbtminimapicon.png" alt="slow faller" width="18"/> <a href="https://www.curseforge.com/wow/addons/keyboards-minimap-icons" style="font-size:18px;" >Keyboard's Minimap Icons</a> <a href="https://www.curseforge.com/wow/addons/keyboards-minimap-icons"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/keyboards-minimap-icons"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info25911-KeyboardsMinimapIcons.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/KeyboardsMinimapIcons"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-WipeBarsConfirm
+<img src="/assets/images_thumbnails/wipebarsconfirm.png" alt="wipe bars confirm" width="18"/> <a href="https://www.curseforge.com/wow/addons/wipebarsconfirm" style="font-size:18px;" >WipeBarsConfirm</a> <a href="https://www.curseforge.com/wow/addons/wipebarsconfirm"><img src="/assets/images_thumbnails/curseforge.png" alt="curseforge" style="width:18px;height:18px;"></a> <a href="https://addons.wago.io/addons/wipebarsconfirm"><img src="/assets/images_thumbnails/wago.png" alt="wago" style="width:18px;height:18px;"></a> <a href="https://www.wowinterface.com/downloads/info26479-WipeBarsConfirm.html"><img src="/assets/images_thumbnails/wowinterface.jfif" alt="wowinterface" style="width:18px;height:18px;"></a> <a href="https://github.com/keyboardturner/WipeBarsConfirm"><img src="/assets/images_thumbnails/github.png" alt="github" style="width:18px;height:18px;"></a>
 
-### Tweaks
+## Tweaks
 
 Movable Objective Frame
 
