@@ -8,6 +8,4 @@ Some text and stuff here.
 
 [Gallery Link Test](./pages/gallery.md)
 
-![Charleston Chews](/assets/images/charlestonchews.jfif)
-
-Version Test: 2
+Version Test: 3
