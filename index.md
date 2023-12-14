@@ -11,7 +11,3 @@ Some text and stuff here.
 test
 
 ![Charleston Chews](/assets/images/charlestonchews.jfif)
-
-<div class="last-update">
-	Last Updated: {{ site.last_updated }}
-</div>
