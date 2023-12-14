@@ -42,7 +42,7 @@ layout: default
 
 # World of Warcraft Addons
 
-My addons can be found on [Curseforge](https://github.com/keyboardturner?tab=repositories), [wago](https://addons.wago.io/user/Keyboardturn), [wowinterface](https://www.wowinterface.com/downloads/author-328467.html), and [github](https://github.com/keyboardturner?tab=repositories).
+My addons can be found on [Curseforge](https://www.curseforge.com/members/keyboardturner/projects), [wago](https://addons.wago.io/user/Keyboardturn), [wowinterface](https://www.wowinterface.com/downloads/author-328467.html), and [github](https://github.com/keyboardturner?tab=repositories).
 
 ### Roleplay
 
