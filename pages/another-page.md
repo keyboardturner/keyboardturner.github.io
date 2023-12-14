@@ -7,3 +7,5 @@ layout: default
 _yay_
 
 [back](/)
+
+{% include my-gallery.html folder="myfolder" %}
