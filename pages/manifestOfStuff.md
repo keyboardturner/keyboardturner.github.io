@@ -51,16 +51,16 @@ Basically every page in this website that might not be normally accessible or sh
 
 ## Random
 
-### [another-page](./pages/another-page)
+### [another-page](./pages/another-page.md)
 
-### [gallery](./pages/gallery)
+### [gallery](./pages/gallery.md)
 
-### [manifestOfStuff](./pages/manifestOfStuff) - this page
+### [manifestOfStuff](./pages/manifestOfStuff.md) - this page
 
-### [resources](./pages/resources)
+### [resources](./pages/resources.md)
 
-### [some-addons](./pages/some-addons)
+### [some-addons](./pages/some-addons.md)
 
-### [TradingPostHistory](./pages/TradingPostHistory)
+### [TradingPostHistory](./pages/TradingPostHistory.html)
 
 [back](/)
