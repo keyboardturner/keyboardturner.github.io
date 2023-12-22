@@ -45,36 +45,22 @@ layout: default
 	</div>
 </div>
 
-Some other stuff can be found below.
+# Manifest of Stuff
 
-# Pages
+Basically every page in this website that might not be normally accessible or show up on the front page.
 
-## <img src="/assets/images_thumbnails/curseforge2.png" alt="curseforge" width="18"/> [WoW Addons](./pages/some-addons.md)
+## Random
 
-## <img src="/assets/images_thumbnails/inv_garrison_resource.jpg" alt="resources" width="18"/> [Resources](./pages/resources.md)
+### [another-page](./pages/another-page)
 
-## <img src="/assets/images_thumbnails/inv_misc_book_10.jpg" alt="resources" width="18"/> [manifestOfStuff](./pages/manifestOfStuff.md)
+### [gallery](./pages/gallery)
 
-# Socials
+### [manifestOfStuff](./pages/manifestOfStuff) - this page
 
-## <img src="/assets/images_thumbnails/discordserver.gif" alt="discord server" width="18"/> [Discord Server](https://discord.gg/tA4rrmjPp8)
+### [resources](./pages/resources)
 
-## <img src="/assets/images_thumbnails/twitter.gif" alt="twitter" width="18"/> [Main / Personal Twitter](https://twitter.com/keyboardturn)
+### [some-addons](./pages/some-addons)
 
-## <img src="/assets/images_thumbnails/bluesky.png" alt="bluesky" width="18"/> [Bluesky](https://staging.bsky.app/profile/keyboardturner.bsky.social)
+### [TradingPostHistory](./pages/TradingPostHistory)
 
-## <img src="/assets/images_thumbnails/ffxiv.gif" alt="fat cat party" width="18"/> [FFXIV Twitter](https://twitter.com/keyboardturn_ff)
-
-# Other
-
-## <img src="/assets/images_thumbnails/abkstrikefund.png" alt="abk strike fund" width="18"/> [ABK Strike Fund](https://www.gofundme.com/f/abk-strike-fund)
-
-## <img src="/assets/images_thumbnails/code_cwa.png" alt="code cwa" width="18"/> [CODE-CWA](https://www.code-cwa.org/)
-
-## <img src="/assets/images_thumbnails/googledoc.png" alt="google doc" width="18"/> [Abortion Funds in Every State](https://bit.ly/AbortionFundsTwitter)
-
-
-
-<!--[Gallery Link Test](./pages/gallery.md)-->
-
-Version Test: 9
+[back](/)
