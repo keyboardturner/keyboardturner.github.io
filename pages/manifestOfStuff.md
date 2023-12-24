@@ -66,8 +66,8 @@ Basically every page in this website that might not be normally accessible or sh
 <details>
 	<summary style="display:list-item">Gallery Subpages</summary>
 
-	### [Nonami](/pages/gallery/nonami_bard)
-	
+	<a href="/pages/gallery/nonami_bard" style="font-size:18px;" >Nonami - Bard / Rogue</a>
+
 </details>
 
 [back](/)
