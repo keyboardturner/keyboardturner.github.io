@@ -55,6 +55,8 @@ Basically every page in this website that might not be normally accessible or sh
 
 ### [gallery](./gallery.md)
 
+### [gallery test 2](/KBTgallery/)
+
 ### [manifestOfStuff](./manifestOfStuff.md) - this page
 
 ### [resources](./resources.md)
