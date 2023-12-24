@@ -49,7 +49,7 @@ layout: default
 
 This is a work in progress. I will attempt to update and keep my portfolio here.
 
-<iframe src="/KBTgallery/bingus.html" width="100%" height="auto" frameborder="0"></iframe>
+<iframe src="/KBTgallery/bingus.html" width="100%" height="100%" frameborder="0"></iframe>
 
 Let's put some text here to test.
  
