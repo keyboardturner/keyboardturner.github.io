@@ -64,8 +64,9 @@ Basically every page in this website that might not be normally accessible or sh
 ### [TradingPostHistory](./TradingPostHistory.html)
 
 <details>
-	<summary>Gallery Subpages</summary>
-	- [Nonami - Bard / Rogue](/pages/gallery/nonami_bard)
+	<summary style="display:list-item">Gallery Subpages</summary>
+
+	- ### [Nonami - Bard / Rogue](/pages/gallery/nonami_bard)
 </details>
 
 [back](/)
