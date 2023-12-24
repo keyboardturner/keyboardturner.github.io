@@ -45,8 +45,8 @@ layout: default
 	</div>
 </div>
 <div style="max-width: 200%; margin: auto; text-align: center;">
-	<img src="/assets/images/nonami_bard/FullRender_CombineSigned.png" alt="3d render of a human character holding a guitar playing some notes looking toward the camera" style="display: block; max-width: 200%; height: auto; margin: auto;">
-	<img src="/assets/images/nonami_bard/FullRender_CombinePortraitSigned.png" alt="3d render of a human character focused on the face. She is wearing a flower crown and looking toward the camera." style="display: block; max-width: 200%; height: auto; margin: auto;">
+	<img src="/assets/images/nonami_bard/FullRender_CombineSigned.png" alt="3d render of a human character holding a guitar playing some notes looking toward the camera" style="display: flex; max-width: 200%; height: auto; margin: -50%;">
+	<img src="/assets/images/nonami_bard/FullRender_CombinePortraitSigned.png" alt="3d render of a human character focused on the face. She is wearing a flower crown and looking toward the camera." style="display: flex; max-width: 200%; height: auto; margin: -50%;">
 </div>
 
 # Nonami - Bard / Rogue
