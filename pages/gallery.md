@@ -52,8 +52,8 @@ This is a work in progress. I will attempt to update and keep my portfolio here.
 [back](/)
 
 {% capture gallery_content %}
-<div class="gallery" style="max-width: 200%; overflow: hidden;">
-	<a href="/pages/gallery/nonami_bard">Nonami - Bard / Rogue<img src="/assets/images/nonami_bard/FullRender_CombineSigned.png" alt="Nonami - Bard / Rogue" style="display: block; max-width: 100%; height: auto; margin: auto;"></a>
+<div class="gallery" style="max-width: 200%; margin: auto; text-align: center;">
+	<a href="/pages/gallery/nonami_bard">Nonami - Bard / Rogue<img src="/assets/images/nonami_bard/FullRender_CombineSigned.png" alt="Nonami - Bard / Rogue" style="display: block; max-width: 200%; height: auto; margin: auto;"></a>
 	<!-- <img src="/assets/images/berlin-1.jpg" alt="Artwork 1"> -->
 	<!-- <img src="/assets/images/berlin-2.jpg" alt="Artwork 2"> -->
 	<!-- <img src="/assets/images/berlin-3.jpg" alt="Artwork 3"> -->
