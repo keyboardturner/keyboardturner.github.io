@@ -56,7 +56,9 @@ I just wanted to make something for my human rogue character. I never really fel
 This took a ton of time to make, particularly as I put a lot of work into the body, a new hair system, reworked parts of the ship UV, and completely made the guitar custom.
 
 <details>
-	<summary>Below are some work in progress projects I made along the way.</summary>
+	<summary style="display:list-item">Read More</summary>
+
+Below are some work in progress projects I made along the way.
 
 Here I had experimented with trying to get a particular outline look using curves paired with a mesh+texture to emulate WoW hairstyles. This testing was first done on a Void Elf.
 
@@ -129,6 +131,7 @@ From here, it was just a matter of posing the character to place into the scene 
 <img src="/assets/images/nonami_bard/FullRender_CombinePortraitSigned.png" alt="[PH]"/>
 
 </details>
+
 
 
 [back](/)
