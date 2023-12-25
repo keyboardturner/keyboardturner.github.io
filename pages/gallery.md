@@ -49,16 +49,15 @@ layout: default
 
 This is a work in progress. I will attempt to update and keep my portfolio here.
 
-<iframe src="/KBTgallery/bingus.html" width="100%" height="100%" frameborder="0"></iframe>
+<iframe src="/KBTgallery/" width="100%" height="600px" frameborder="0"></iframe>
 
 Let's put some text here to test.
  
 
-[back](/)
 
 {% capture gallery_content %}
 <div class="gallery" style="max-width: 200%; margin: auto; text-align: center;">
-	<a href="/pages/gallery/nonami_bard">Nonami - Bard / Rogue<img src="/assets/images/nonami_bard/FullRender_CombineSigned.png" alt="Nonami - Bard / Rogue" style="display: flex; max-width: 200%; height: auto; margin: -50%; padding-bottom: 50%;"></a>
+	<!-- <a href="/pages/gallery/nonami_bard">Nonami - Bard / Rogue<img src="/assets/images/nonami_bard/FullRender_CombineSigned.png" alt="Nonami - Bard / Rogue" style="display: flex; max-width: 200%; height: auto; margin: -50%; padding-bottom: 50%;"></a> -->
 	<!-- <img src="/assets/images/berlin-1.jpg" alt="Artwork 1"> -->
 	<!-- <img src="/assets/images/berlin-2.jpg" alt="Artwork 2"> -->
 	<!-- <img src="/assets/images/berlin-3.jpg" alt="Artwork 3"> -->
