@@ -56,6 +56,25 @@ I just wanted to make something for my human rogue character. I never really fel
 
 This took a ton of time to make, particularly as I put a lot of work into the body, a new hair system, reworked parts of the ship UV, and completely made the guitar custom.
 
+<iframe src="/KBTgallery/Characters-Nonami-MoonGuard" width="100%" height="600px" frameborder="0"></iframe>
+
+Let's put some text here to test.
+ 
+
+
+{% capture gallery_content %}
+<div class="gallery" style="max-width: 200%; margin: auto; text-align: center;">
+	<!-- <a href="/pages/gallery/nonami_bard">Nonami - Bard / Rogue<img src="/assets/images/nonami_bard/FullRender_CombineSigned.png" alt="Nonami - Bard / Rogue" style="display: flex; max-width: 200%; height: auto; margin: -50%; padding-bottom: 50%;"></a> -->
+	<!-- <img src="/assets/images/berlin-1.jpg" alt="Artwork 1"> -->
+	<!-- <img src="/assets/images/berlin-2.jpg" alt="Artwork 2"> -->
+	<!-- <img src="/assets/images/berlin-3.jpg" alt="Artwork 3"> -->
+	<!-- <img src="/assets/images/charlestonchews.jfif" alt="Artwork 4"> -->
+	<!-- Add more images as needed -->
+</div>
+{% endcapture %}
+
+{{ gallery_content | markdownify }}
+
 <details>
 	<summary style="display:list-item">Read More</summary>
 
