@@ -65,6 +65,8 @@ Basically every page in this website that might not be normally accessible or sh
 
 ### [TradingPostHistory](./TradingPostHistory.html)
 
+### [Dragon Race Currencies](./DragonRaceCurrency.html)
+
 <details>
 	<summary style="display:list-item">Gallery Subpages</summary>
 
