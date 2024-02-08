@@ -53,9 +53,11 @@ Basically every page in this website that might not be normally accessible or sh
 
 ### [another-page](./another-page.md)
 
-### [gallery](./gallery.md)
+### [photoblog](/photoblog/journal/)
 
-### [gallery test 2](/KBTgallery/)
+### [old gallery](./gallery.md)
+
+### [old gallery test 2](/KBTgallery/)
 
 ### [manifestOfStuff](./manifestOfStuff.md) - this page
 
