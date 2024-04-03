@@ -50,10 +50,20 @@ Some other stuff can be found below.
 # Pages
 
 ## <img src="/assets/images_thumbnails/curseforge2.png" alt="curseforge" width="18"/> [WoW Addons](./pages/some-addons.md)
+\
+Most of my public addon projects can be found here.
+
+## <img src="/assets/images_thumbnails/inv_misc_selfiecamera_01.jpg" alt="resources" width="18"/> [Photoblog](./photoblog/)
+\
+A sort of journal of ideas and gallery of projects I've work on or made. This is basically a "portfolio"
 
 ## <img src="/assets/images_thumbnails/inv_garrison_resource.jpg" alt="resources" width="18"/> [Resources](./pages/resources.md)
+\
+A collection of neat links and things I use.
 
 ## <img src="/assets/images_thumbnails/inv_misc_book_10.jpg" alt="resources" width="18"/> [manifestOfStuff](./pages/manifestOfStuff.md)
+\
+Any other pages not directly linked anywhere. This is mostly boring spreadsheets or old test pages.
 
 # Socials
 
