@@ -57,4 +57,17 @@ Below are some resources I find pretty neat. Primarily these are some useful too
 
 ### [Algalon CDN Watcher](https://twitter.com/algalon_ghost)
 
+## 3d Modelling/Art
+
+### [Blender](https://www.blender.org/)
+
+### [GIMP](https://www.gimp.org/)
+
+### [wow.export](https://www.kruithne.net/wow.export/)
+
+## Other Useful Tools
+
+### [ShareX](https://getsharex.com/)
+
+
 [back](/)
