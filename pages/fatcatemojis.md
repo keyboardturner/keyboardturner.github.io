@@ -54,52 +54,12 @@ layout: default
 	</div>
 </div>
 
-Some other stuff can be found below.
+# Fat Cat Emojis
 
-# Pages
-
-## <img src="/assets/images_thumbnails/curseforge2.png" alt="curseforge" width="18"/> [WoW Addons](./pages/some-addons.md)
-\
-Most of my public addon projects can be found here.
-
-## <img src="/assets/images_thumbnails/inv_misc_selfiecamera_01.jpg" alt="resources" width="18"/> [Photoblog](./photoblog/)
-\
-A sort of journal of ideas and gallery of projects I've work on or made. This is basically a "portfolio"
-
-## <img src="/assets/images_thumbnails/inv_garrison_resource.jpg" alt="resources" width="18"/> [Resources](./pages/resources.md)
-\
-A collection of neat links and things I use.
-
-## <img src="/assets/images_thumbnails/ffxiv.gif" alt="fat cat party" width="18"/> [fat cat emojis](./pages/fatcatemojis.md)
-\
 A collection of emojis that can be used for betterTTV or 7tv.
 
-## <img src="/assets/images_thumbnails/inv_misc_book_10.jpg" alt="resources" width="18"/> [manifestOfStuff](./pages/manifestOfStuff.md)
-\
-Any other pages not directly linked anywhere. This is mostly boring spreadsheets or old test pages.
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:phvpmx5a76vy6ors6djcxjbp/app.bsky.feed.post/3lgoy2qmzms2b" data-bluesky-cid="bafyreiccviqw3citaaqdxwkqada7yodito7kicfgljh2aoylu4xeutcamy"><p lang="en">Links to packs here:
+BTTV: betterttv.com/users/630416...
+7TV: 7tv.app/emote-sets/6...<br><br><a href="https://bsky.app/profile/did:plc:phvpmx5a76vy6ors6djcxjbp/post/3lgoy2qmzms2b?ref_src=embed">[image or embed]</a></p>&mdash; Ellie - might post spoilers-ish 💙 (<a href="https://bsky.app/profile/did:plc:phvpmx5a76vy6ors6djcxjbp?ref_src=embed">@keyboardturner.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:phvpmx5a76vy6ors6djcxjbp/post/3lgoy2qmzms2b?ref_src=embed">Jan 26, 2025 at 7:16 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
-
-
-# Socials
-
-## <img src="/assets/images_thumbnails/bluesky.png" alt="bluesky" width="18"/> [Bluesky](https://staging.bsky.app/profile/keyboardturner.bsky.social)
-
-## <img src="/assets/images_thumbnails/discordserver.gif" alt="discord server" width="18"/> [Discord Server](https://discord.gg/TXB2kPYhgu)
-
-## <img src="/assets/images_thumbnails/twitter.gif" alt="twitter" width="18"/> [Main / Personal Twitter](https://twitter.com/keyboardturn)
-
-## <img src="/assets/images_thumbnails/ffxiv.gif" alt="fat cat party" width="18"/> [FFXIV Twitter](https://twitter.com/keyboardturn_ff)
-
-# Other
-
-## <img src="/assets/images_thumbnails/abkstrikefund.png" alt="abk strike fund" width="18"/> [ABK Strike Fund](https://www.gofundme.com/f/abk-strike-fund)
-
-## <img src="/assets/images_thumbnails/code_cwa.png" alt="code cwa" width="18"/> [CODE-CWA](https://www.code-cwa.org/)
-
-## <img src="/assets/images_thumbnails/googledoc.png" alt="google doc" width="18"/> [Abortion Funds in Every State](https://bit.ly/AbortionFundsTwitter)
-
-
-
-<!--[Gallery Link Test](./pages/gallery.md)-->
-
-Version Test: 9
+[back](/)
