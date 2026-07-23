@@ -56,7 +56,7 @@ layout: default
 
 # Fat Cat Emojis
 
-A collection of emojis that can be used for betterTTV or 7tv.
+A collection of emojis that can be used for [betterTTV](https://betterttv.com/users/630416fa41c685c616174f07) or [7tv](https://7tv.app/emote-sets/63099586bb24bf8e102f960f).
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:phvpmx5a76vy6ors6djcxjbp/app.bsky.feed.post/3lgoy2qmzms2b" data-bluesky-cid="bafyreiccviqw3citaaqdxwkqada7yodito7kicfgljh2aoylu4xeutcamy"><p lang="en">Links to packs here:
 BTTV: betterttv.com/users/630416...
